@@ -1,0 +1,126 @@
+html, body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+.background-img {
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0,0,0, 0.6);
+}
+
+.img-container {
+  height: 100%;
+  width: 100%;
+  background: url("./images/656665.jpg");
+  background-size: cover;
+  background-position: bottom;
+  background-repeat: no-repeat;
+}
+
+.my-name-container {
+  opacity: 1;
+  color: white;
+  font-size: 84px;
+  position: relative;
+  left: 10%;
+  top: 30%;
+}
+
+.greeting {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.subtitle {
+  font-size: 24px;
+  position: absolute;
+  bottom: -10px;
+  font-weight: 300;
+}
+
+.aboutme {
+  margin: 10% 15%;
+  font-size: 24px;
+  text-align: center;
+}
+
+.aboutme-details {
+  padding-top: 30px;
+  font-style: italic;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.education {
+  background-color: #E1E1E1C7;
+  padding: 6rem 8rem;
+  font-size: 36px;
+}
+
+.section-title {
+  text-align: center;
+}
+
+.section-heading {
+  padding-top: 3rem;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.section-timeline {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.section-content {
+  font-style: italic;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.work-experience{
+  padding: 6rem 8rem;
+  font-size: 36px;
+}
+
+.skills {
+  padding: 6rem 12rem;
+  font-size: 36px;
+  background-color: #F2FBFF;
+}
+
+.skills-content {
+  font-size: 16px;
+  font-weight: 300;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 3rem;
+  text-align: center;
+}
+
+.skills-heading {
+  font-size: 18px;
+  font-weight: 600;
+  font-style: normal;
+  padding-bottom: 8px;
+}
+
+.contact {
+  margin: 10% 15%;
+  font-size: 24px;
+  text-align: center;
+}
+
+.contact-details {
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.contact-icon {
+  position: relative;
+  top: 4px;
+  padding-right: 6px;
+  font-size: 22px !important;
+}
+
