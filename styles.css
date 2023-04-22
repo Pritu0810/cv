@@ -125,3 +125,8 @@ html, body {
   font-size: 22px !important;
 }
 
+.contact-link {
+  text-decoration: none;
+  color: black;
+}
+
